@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-sw@6$_d-pxs#mzjsq&0h#r^bsyi!)stoay_9gh&yh1!)_ndux+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['warm-spire-08252.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['warm-spire-08252.herokuapp.com', 'warm-spire-08252-999f67e42d22.herokuapp.com', 'localhost', '127.0.0.1']
+
 
 
 
