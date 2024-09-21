@@ -1,5 +1,5 @@
 body {
-    background: blue url("/static/images/background.png") no-repeat;
+    background: url("/static/polls/images/background.png") no-repeat;
 }
 
 li a {
